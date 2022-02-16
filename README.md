@@ -744,4 +744,4 @@ $ sudo supervisorctl status
 ```
 
 
-<h3 style="text-align:right" >Prepared by <a href="https://github.com/AbilashEnfield" style="color:#ba2532">Abilash</a></h3>
+<h3 style="text-align:right"> Prepared by <a href="https://github.com/AbilashEnfield" style="color:#ba2532">Abilash</a></h3>
